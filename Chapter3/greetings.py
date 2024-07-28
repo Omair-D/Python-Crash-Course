@@ -1,5 +1,5 @@
 names = ['Adam', 'Ben', 'Caleb', 'Drake', 'Eric']
-
+# Personal Messages
 messageAdam = ", I love your pet dog"
 messageBen = ", I hope you're doing well!"
 messageCaleb = ", I hope that your fish is doing well!"
