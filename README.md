@@ -10,3 +10,7 @@
 - Chapter 9: User input and while Loops
 - Chapter 10: Files and Exceptions
 - Chapter 11: Testing Your Code
+# Part 2: Projects
+- Project 1: Alien invasion
+- Project 2: Data Visualization
+- Project 3: Web Applications with Django
