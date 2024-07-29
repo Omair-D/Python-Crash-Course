@@ -1,6 +1,7 @@
 # Python-Crash-Course
-## Doing all projects from Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming by Eric Matthes
+### Doing all projects from Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming by Eric Matthes
 
+# Part 1: Basics
 - Chapter 2: Variables and Simple Data Types
 - Chapter 3: Introducing Lists
 - Chapter 4: Working with Lists
