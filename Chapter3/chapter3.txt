@@ -81,7 +81,7 @@ it’s back to its original order.
  •	Use sort() to change your list so it’s stored in alphabetical order. Print the 
 list to show that its order has been changed.
  •	Use sort() to change your list so it’s stored in reverse alphabetical order. 
-Print the list to show that its order has changed.
+Print the list to show that its order has changed
 
  3-9. Dinner Guests: Working with one of the programs from Exercises 3-4 
 through 3-7 (page 42), use len() to print a message indicating the number 
