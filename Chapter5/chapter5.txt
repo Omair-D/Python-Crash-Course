@@ -24,7 +24,7 @@ less than, greater than or equal to, and less than or equal to
  •	Tests using the and keyword and the or keyword
  •	Test whether an item is in a list
  •	Test whether an item is not in a list
--------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
 try it yourSelf
 
  5-3. Alien Colors #1: Imagine an alien was just shot down in a game. Create a 
