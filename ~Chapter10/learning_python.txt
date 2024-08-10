@@ -1,0 +1,3 @@
+In Python you can open files
+In Python you can read files
+In Python you can write files
