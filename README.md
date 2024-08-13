@@ -11,7 +11,8 @@
 - Chapter 8: Functions ✅
 - Chapter 9: Classes ✅
 - Chapter 10: Files and Exceptions ✅
-- Chapter 11: Testing Your Code
+- Chapter 11: Testing Your Code ✅
+<!--
 # Part 2: Projects
 - Project 1: Alien invasion
 - Project 2: Data Visualization
